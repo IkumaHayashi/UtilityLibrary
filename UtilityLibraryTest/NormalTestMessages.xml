@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+  <Message ID="0001" Type="I" Caption="情報" Text="情報メッセージ" />
+  <Message ID="0002" Type="W" Caption="警告" Text="情報メッセージ" />
+  <Message ID="0003" Type="E" Caption="エラー" Text="エラーメッセージ" />
+  <Message ID="0004" Type="Q" Caption="質問" Text="質問メッセージ" />
+  <Message ID="0005" Type="C" Caption="カスタム" Text="カスタムメッセージ"/>
+</Messages>

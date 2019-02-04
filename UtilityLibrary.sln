@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibrary", "UtilityLibrary\UtilityLibrary.csproj", "{ABB42886-D4A9-4FB7-9ABD-0FD95FCD2A89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibraryTest", "UtilityLibraryTest\UtilityLibraryTest.csproj", "{0997E35A-FF69-4ACC-95D6-737E2A0B6EC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ABB42886-D4A9-4FB7-9ABD-0FD95FCD2A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB42886-D4A9-4FB7-9ABD-0FD95FCD2A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB42886-D4A9-4FB7-9ABD-0FD95FCD2A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0997E35A-FF69-4ACC-95D6-737E2A0B6EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0997E35A-FF69-4ACC-95D6-737E2A0B6EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0997E35A-FF69-4ACC-95D6-737E2A0B6EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0997E35A-FF69-4ACC-95D6-737E2A0B6EC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
